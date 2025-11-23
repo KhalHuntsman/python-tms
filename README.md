@@ -78,6 +78,7 @@ task = {
 
 ## Modules Overview
 validation.py
+
 Contains:
 - validate_task_title(title)
 - validate_task_description(description)
